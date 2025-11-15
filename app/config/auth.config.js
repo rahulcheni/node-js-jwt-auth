@@ -1,3 +1,3 @@
 module.exports = {
-  secret: "acusep-secret-key"
+  secret: "test-secret"
 };
